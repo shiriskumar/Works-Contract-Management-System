@@ -6,7 +6,10 @@ Agreements and contracts are not just pieces of paper to be signed before money 
 
 Modules:
 This repository contains 3 program modules, each for different purposes.
+
 1. Preparation of Estimates for Work Division - For Items of Work Previously Awarded
+
 2. Preparation of Estimates for Work Division - For new Items
+
 3. For Cases of Servicing / Repair by
 Manufacturer / Authorized Servicing Agent
