@@ -1,6 +1,6 @@
 Documantation:
 
-	For items of work that were awarded in any of the preceding 3 years, estimate shall be
+For items of work that were awarded in any of the preceding 3 years, estimate shall be
 calculated as the average of such awarded rates. However, in case the awarded rate of any
 previous year under consideration was less than -10% or more than +10%of the estimated rate,
 the reduction below -10% or excess over of +10% shall be ignored in the summation of the
