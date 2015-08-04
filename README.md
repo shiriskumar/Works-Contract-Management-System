@@ -1,3 +1,5 @@
+![CommandCam Scripts](Resources/contract.jpg)
+
 #Works-Contract-Management-System
 
 Implementation of contract estimates for Work Division
